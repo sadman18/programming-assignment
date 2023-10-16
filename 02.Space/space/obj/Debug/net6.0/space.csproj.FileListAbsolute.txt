@@ -1,0 +1,14 @@
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\bin\Debug\net6.0\space.exe
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\bin\Debug\net6.0\space.deps.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\bin\Debug\net6.0\space.runtimeconfig.json
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\bin\Debug\net6.0\space.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\bin\Debug\net6.0\space.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.AssemblyInfoInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.AssemblyInfo.cs
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.csproj.CoreCompileInputs.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\refint\space.dll
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.pdb
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\space.genruntimeconfig.cache
+C:\Users\sadma\Desktop\Study\3rd Semester\Programming Advance\Assignments\02.Space\space\obj\Debug\net6.0\ref\space.dll
